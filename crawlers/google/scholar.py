@@ -6,7 +6,7 @@ import hashlib
 import random
 
 # helper type for working with Google Scholar Engine
-class GoogleSE:
+class Engine:
 
   def __init__(self, query, perPage=10, pageNum=10):
     self.__query = query.lower()
@@ -44,10 +44,7 @@ class GoogleSE:
     # encode query
     start = self.__curPage * self.__perPage
     query = urllib.parse.urlencode({"q":self.__query, "start":start, "num":self.__perPage})
-    url = "http://scholar.google.com/scholar?{0}".format(query)
-    
-    print("query = {0}".format(query))          
-    
+    url = "http://scholar.google.com/scholar?{0}".format(query)      
     self.__curPage += 1
       
     # open url
