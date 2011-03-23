@@ -1,1 +1,1 @@
-__all__ = ["googlese"]
+__all__ = ["GoogleSE"]
