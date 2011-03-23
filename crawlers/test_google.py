@@ -3,7 +3,7 @@
 import google.scholar
 import unittest
 
-class GoogleSeTest(unittest.TestCase):
+class ScholarTest(unittest.TestCase):
   def test(self):
     engine = google.scholar.Engine("A. Einstein", 10, 3)
     print(engine)
