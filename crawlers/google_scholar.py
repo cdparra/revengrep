@@ -8,15 +8,22 @@ import sys
 
 def matchName(rname, qname):
 # match a name that was found with the real name
+  # TODO: add here some logic
   if rname == qname:
     return True
   return False
+  
+def parseName(name):
+# transmit the input author name into the usable version
+  # TODO: add here some logic
+  return name  
+
 
 
 def main():
-  print(sys.argv)
-  for i in sys.argv:
-    print(i)
+  rname = parseName(sys.argv[1])
+  
+  
   
 
 def badArgs():
