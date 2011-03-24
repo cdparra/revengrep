@@ -50,7 +50,8 @@ class Engine:
     # open url
     page = urllib.request.urlopen(url)
     # decode page's content and return result
-    return page.read().decode("windows-1251")
+#    return page.read().decode("windows-1251")
+    return page.read().decode("utf-8")
       
   def __str__(self):
     return ('Google Scholar Engine : query=[{0.query}] '
