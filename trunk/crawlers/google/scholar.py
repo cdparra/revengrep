@@ -57,4 +57,4 @@ class Engine:
     'perPage=[{0.perPage}] pageNum=[{0.pageNum}]'
     .format(self))
       
-# class GoogleSE
+# class Engine
