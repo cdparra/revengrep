@@ -1,0 +1,36 @@
+ozgur_b_akan
+{'h-index': 19, 'm-index': 37, 'ac': 36.5, 'cc': 1971, 'r-index': 41.50903516103452, 'g-index': 44, 'h2-index': 7, 'a-index': 90.6842105263158}
+
+tadashi_nakano
+{'h-index': 19, 'm-index': 36, 'ac': 12.4, 'cc': 1116, 'r-index': 26.962937525425527, 'g-index': 30, 'h2-index': 6, 'a-index': 38.26315789473684}
+
+kenji_leibnitz
+{'h-index': 14, 'm-index': 41, 'ac': 37.87096774193548, 'cc': 2348, 'r-index': 45.36518488885502, 'g-index': 48, 'h2-index': 6, 'a-index': 147.0}
+
+christian_bettstetter
+{'h-index': 31, 'm-index': 61, 'ac': 48.26, 'cc': 4826, 'r-index': 65.13831437794502, 'g-index': 68, 'h2-index': 10, 'a-index': 136.8709677419355}
+
+stephan_steglich
+{'h-index': 9, 'm-index': 10, 'ac': 4.943396226415095, 'cc': 262, 'r-index': 10.44030650891055, 'g-index': 11, 'h2-index': 3, 'a-index': 12.11111111111111}
+
+jun_suzuki
+{'h-index': 41, 'm-index': 53, 'ac': 47.19, 'cc': 4719, 'r-index': 53.018864567246254, 'g-index': 59, 'h2-index': 9, 'a-index': 68.5609756097561}
+
+gianni_di_caro
+{'h-index': 30, 'm-index': 108, 'ac': 83.29, 'cc': 8329, 'r-index': 88.09653795694811, 'g-index': 91, 'h2-index': 13, 'a-index': 258.7}
+
+iacopo_carreras
+{'h-index': 13, 'm-index': 17, 'ac': 8.622641509433961, 'cc': 457, 'r-index': 16.401219466856727, 'g-index': 17, 'h2-index': 4, 'a-index': 20.692307692307693}
+
+jian-qin_liu
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+emma_hart
+{'h-index': 30, 'm-index': 69, 'ac': 55.05, 'cc': 5505, 'r-index': 69.6993543729065, 'g-index': 73, 'h2-index': 10, 'a-index': 161.93333333333334}
+
+alioune_ngom
+{'h-index': 9, 'm-index': 15, 'ac': 5.9245283018867925, 'cc': 314, 'r-index': 12.36931687685298, 'g-index': 13, 'h2-index': 4, 'a-index': 17.0}
+
+falko_essler
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+

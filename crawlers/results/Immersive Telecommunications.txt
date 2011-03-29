@@ -1,0 +1,21 @@
+cha_zhang
+{'h-index': 19, 'm-index': 40, 'ac': 15.3, 'cc': 1530, 'r-index': 32.61901286060018, 'g-index': 35, 'h2-index': 7, 'a-index': 56.0}
+
+debargha_mukherjee
+{'h-index': 17, 'm-index': 25, 'ac': 15.27710843373494, 'cc': 1268, 'r-index': 28.965496715920477, 'g-index': 32, 'h2-index': 6, 'a-index': 49.35294117647059}
+
+aljoscha_smolic
+{'h-index': 23, 'm-index': 36, 'ac': 22.65432098765432, 'cc': 1835, 'r-index': 37.027017163147235, 'g-index': 40, 'h2-index': 7, 'a-index': 59.608695652173914}
+
+seok-pil_lee
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+oliver_staadt
+{'h-index': 19, 'm-index': 55, 'ac': 35.07017543859649, 'cc': 1999, 'r-index': 42.05948168962618, 'g-index': 44, 'h2-index': 8, 'a-index': 93.10526315789474}
+
+petros_daras
+{'h-index': 12, 'm-index': 23, 'ac': 33.98039215686274, 'cc': 1733, 'r-index': 39.50949253027682, 'g-index': 41, 'h2-index': 5, 'a-index': 130.08333333333334}
+
+ghassan_alregib
+{'h-index': 8, 'm-index': 15, 'ac': 7.023255813953488, 'cc': 302, 'r-index': 14.106735979665885, 'g-index': 15, 'h2-index': 4, 'a-index': 24.875}
+

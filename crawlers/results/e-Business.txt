@@ -1,0 +1,87 @@
+zhiming_cai
+{'h-index': 9, 'm-index': 16, 'ac': 4.68, 'cc': 468, 'r-index': 12.206555615733702, 'g-index': 13, 'h2-index': 4, 'a-index': 16.555555555555557}
+
+christer_carlsson
+{'h-index': 37, 'm-index': 64, 'ac': 52.19, 'cc': 5219, 'r-index': 63.92182725798755, 'g-index': 69, 'h2-index': 10, 'a-index': 110.43243243243244}
+
+shing-chi_cheung
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+william_cheung
+{'h-index': 27, 'm-index': 39, 'ac': 20.96, 'cc': 2096, 'r-index': 35.90264614203248, 'g-index': 39, 'h2-index': 7, 'a-index': 47.74074074074074}
+
+isabelle_comyn-wattiau
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+wai-wa_fung
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+hua_hu
+{'h-index': 45, 'm-index': 67, 'ac': 72.69, 'cc': 7269, 'r-index': 75.31932023060219, 'g-index': 83, 'h2-index': 10, 'a-index': 126.06666666666666}
+
+wendy_w_y_hui
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+patrick_ck_hung
+{'h-index': 15, 'm-index': 23, 'ac': 8.9, 'cc': 890, 'r-index': 21.400934559032695, 'g-index': 23, 'h2-index': 5, 'a-index': 30.533333333333335}
+
+marijn_janssen
+{'h-index': 19, 'm-index': 27, 'ac': 15.426966292134832, 'cc': 1373, 'r-index': 30.44667469527666, 'g-index': 33, 'h2-index': 6, 'a-index': 48.78947368421053}
+
+eleanna_kafeza
+{'h-index': 11, 'm-index': 32, 'ac': 12.489795918367347, 'cc': 612, 'r-index': 21.587033144922902, 'g-index': 23, 'h2-index': 5, 'a-index': 42.36363636363637}
+
+irene_kafeza
+{'h-index': 4, 'm-index': 6, 'ac': 8.555555555555555, 'cc': 77, 'r-index': 8.426149773176359, 'g-index': 8, 'h2-index': 2, 'a-index': 17.75}
+
+p_radha_krishna
+{'h-index': 15, 'm-index': 36, 'ac': 9.833333333333334, 'cc': 944, 'r-index': 23.108440016582687, 'g-index': 25, 'h2-index': 6, 'a-index': 35.6}
+
+ibrahim_kushchu
+{'h-index': 7, 'm-index': 20, 'ac': 8.181818181818182, 'cc': 270, 'r-index': 13.601470508735444, 'g-index': 15, 'h2-index': 4, 'a-index': 26.428571428571427}
+
+raymond_yk_lau
+{'h-index': 13, 'm-index': 21, 'ac': 11.512195121951219, 'cc': 472, 'r-index': 18.275666882497067, 'g-index': 20, 'h2-index': 5, 'a-index': 25.692307692307693}
+
+ho-fung_leung
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+fu-ren_lin
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+chengfei_liu
+{'h-index': 18, 'm-index': 25, 'ac': 14.18, 'cc': 1418, 'r-index': 29.899832775452108, 'g-index': 32, 'h2-index': 5, 'a-index': 49.666666666666664}
+
+zakaria_maamar
+{'h-index': 22, 'm-index': 41, 'ac': 35.56976744186046, 'cc': 3059, 'r-index': 49.76946855251722, 'g-index': 54, 'h2-index': 7, 'a-index': 112.5909090909091}
+
+nicholas_c_romano
+{'h-index': 24, 'm-index': 42, 'ac': 28.63095238095238, 'cc': 2405, 'r-index': 44.9221548904324, 'g-index': 48, 'h2-index': 7, 'a-index': 84.08333333333333}
+
+hideyasu_sasaki
+{'h-index': 5, 'm-index': 9, 'ac': 3.25, 'cc': 117, 'r-index': 6.6332495807108, 'g-index': 7, 'h2-index': 3, 'a-index': 8.8}
+
+yuqing_sun
+{'h-index': 15, 'm-index': 22, 'ac': 9.09, 'cc': 909, 'r-index': 23.62202362203543, 'g-index': 26, 'h2-index': 5, 'a-index': 37.2}
+
+juan_trujillo
+{'h-index': 23, 'm-index': 57, 'ac': 29.48, 'cc': 2948, 'r-index': 45.81484475582123, 'g-index': 50, 'h2-index': 8, 'a-index': 91.26086956521739}
+
+pasi_tyrväinen
+{'h-index': 12, 'm-index': 25, 'ac': 9.553191489361701, 'cc': 449, 'r-index': 17.74823934929885, 'g-index': 19, 'h2-index': 5, 'a-index': 26.25}
+
+pirkko_walden
+{'h-index': 16, 'm-index': 35, 'ac': 14.060240963855422, 'cc': 1167, 'r-index': 28.827070610799147, 'g-index': 31, 'h2-index': 6, 'a-index': 51.9375}
+
+maggie_m_wang
+{'h-index': 1, 'm-index': 2, 'ac': 2.0, 'cc': 2, 'r-index': 1.4142135623730951, 'g-index': 1, 'h2-index': 1, 'a-index': 2.0}
+
+stephen_j_h_yang
+{'h-index': 1, 'm-index': 2, 'ac': 2.0, 'cc': 2, 'r-index': 1.4142135623730951, 'g-index': 1, 'h2-index': 1, 'a-index': 2.0}
+
+jian_yang
+{'h-index': 81, 'm-index': 129, 'ac': 155.45, 'cc': 15545, 'r-index': 118.80656547514535, 'g-index': 100, 'h2-index': 13, 'a-index': 174.25925925925927}
+
+yi_zhuang
+{'h-index': 23, 'm-index': 39, 'ac': 17.14, 'cc': 1714, 'r-index': 30.166206257996713, 'g-index': 33, 'h2-index': 6, 'a-index': 39.56521739130435}
+

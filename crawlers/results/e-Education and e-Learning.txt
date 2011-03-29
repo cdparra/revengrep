@@ -1,0 +1,6 @@
+giovanni_vincenti
+{'h-index': 3, 'm-index': 3, 'ac': 3.3125, 'cc': 53, 'r-index': 6.082762530298219, 'g-index': 6, 'h2-index': 1, 'a-index': 12.333333333333334}
+
+james_braman
+{'h-index': 5, 'm-index': 6, 'ac': 3.35, 'cc': 67, 'r-index': 6.324555320336759, 'g-index': 6, 'h2-index': 2, 'a-index': 8.0}
+

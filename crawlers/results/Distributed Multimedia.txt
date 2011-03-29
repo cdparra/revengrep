@@ -1,0 +1,39 @@
+cristian_perra
+{'h-index': 3, 'm-index': 5, 'ac': 3.3333333333333335, 'cc': 20, 'r-index': 4.0, 'g-index': 4, 'h2-index': 2, 'a-index': 5.333333333333333}
+
+claudio_sacchi
+{'h-index': 21, 'm-index': 54, 'ac': 22.373493975903614, 'cc': 1857, 'r-index': 39.56008088970496, 'g-index': 42, 'h2-index': 8, 'a-index': 74.52380952380952}
+
+geyong_min
+{'h-index': 12, 'm-index': 15, 'ac': 10.39, 'cc': 1039, 'r-index': 26.324893162176366, 'g-index': 29, 'h2-index': 4, 'a-index': 57.75}
+
+maria_martini
+{'h-index': 17, 'm-index': 27, 'ac': 10.26, 'cc': 1026, 'r-index': 24.79919353527449, 'g-index': 27, 'h2-index': 5, 'a-index': 36.1764705882353}
+
+tasos_dagiuklas
+{'h-index': 9, 'm-index': 19, 'ac': 7.767441860465116, 'cc': 334, 'r-index': 14.798648586948742, 'g-index': 16, 'h2-index': 4, 'a-index': 24.333333333333332}
+
+thomas_schierl
+{'h-index': 16, 'm-index': 29, 'ac': 12.861538461538462, 'cc': 836, 'r-index': 23.727621035409346, 'g-index': 26, 'h2-index': 6, 'a-index': 35.1875}
+
+petteri_nurmi
+{'h-index': 11, 'm-index': 23, 'ac': 9.0, 'cc': 459, 'r-index': 16.64331697709324, 'g-index': 18, 'h2-index': 4, 'a-index': 25.181818181818183}
+
+jon_sporring
+{'h-index': 12, 'm-index': 29, 'ac': 11.487179487179487, 'cc': 896, 'r-index': 25.514701644346147, 'g-index': 27, 'h2-index': 6, 'a-index': 54.25}
+
+jean-marc_thiriet
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+vesna_zeljkovic
+{'h-index': 4, 'm-index': 5, 'ac': 2.9166666666666665, 'cc': 35, 'r-index': 4.47213595499958, 'g-index': 4, 'h2-index': 2, 'a-index': 5.0}
+
+laura_grindei
+{'h-index': 1, 'm-index': 6, 'ac': 6.0, 'cc': 6, 'r-index': 2.449489742783178, 'g-index': 1, 'h2-index': 1, 'a-index': 6.0}
+
+ioannis_patras
+{'h-index': 12, 'm-index': 21, 'ac': 14.23913043478261, 'cc': 655, 'r-index': 22.15851980616034, 'g-index': 24, 'h2-index': 5, 'a-index': 40.916666666666664}
+
+luigi_atzori
+{'h-index': 13, 'm-index': 24, 'ac': 10.392857142857142, 'cc': 582, 'r-index': 19.697715603592208, 'g-index': 22, 'h2-index': 5, 'a-index': 29.846153846153847}
+

@@ -1,0 +1,42 @@
+tamer_basar
+{'h-index': 41, 'm-index': 70, 'ac': 97.0, 'cc': 9700, 'r-index': 90.5317623820502, 'g-index': 98, 'h2-index': 10, 'a-index': 199.90243902439025}
+
+nahum_shimkin
+{'h-index': 20, 'm-index': 38, 'ac': 17.51, 'cc': 1751, 'r-index': 35.482389998420345, 'g-index': 38, 'h2-index': 7, 'a-index': 62.95}
+
+lorn_mason
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+eilon_solan
+{'h-index': 15, 'm-index': 32, 'ac': 10.404494382022472, 'cc': 926, 'r-index': 24.041630560342615, 'g-index': 26, 'h2-index': 6, 'a-index': 38.53333333333333}
+
+asu_ozdaglar
+{'h-index': 7, 'm-index': 12, 'ac': 26.823529411764707, 'cc': 456, 'r-index': 20.83266665599966, 'g-index': 17, 'h2-index': 3, 'a-index': 62.0}
+
+hiroyuki_ohsaki
+{'h-index': 13, 'm-index': 20, 'ac': 8.79, 'cc': 879, 'r-index': 20.952326839756964, 'g-index': 23, 'h2-index': 4, 'a-index': 33.76923076923077}
+
+vivek_borkar
+{'h-index': 29, 'm-index': 53, 'ac': 36.12, 'cc': 3612, 'r-index': 53.028294334251406, 'g-index': 57, 'h2-index': 9, 'a-index': 96.96551724137932}
+
+josé_aguilar
+{'h-index': 25, 'm-index': 48, 'ac': 21.74, 'cc': 2174, 'r-index': 37.255872020394314, 'g-index': 41, 'h2-index': 7, 'a-index': 55.52}
+
+merouane_debbah
+{'h-index': 18, 'm-index': 27, 'ac': 16.52054794520548, 'cc': 1206, 'r-index': 25.495097567963924, 'g-index': 28, 'h2-index': 6, 'a-index': 36.111111111111114}
+
+jean_claude_bermond
+{'h-index': 26, 'm-index': 44, 'ac': 25.29, 'cc': 2529, 'r-index': 43.41658669218482, 'g-index': 47, 'h2-index': 7, 'a-index': 72.5}
+
+laura_wynter
+{'h-index': 12, 'm-index': 22, 'ac': 18.31578947368421, 'cc': 696, 'r-index': 23.979157616563597, 'g-index': 26, 'h2-index': 5, 'a-index': 47.916666666666664}
+
+konstantin_avratchenkov
+{'h-index': 3, 'm-index': 5, 'ac': 7.333333333333333, 'cc': 22, 'r-index': 4.69041575982343, 'g-index': 3, 'h2-index': 2, 'a-index': 7.333333333333333}
+
+eitan_altman
+{'h-index': 45, 'm-index': 68, 'ac': 59.44, 'cc': 5944, 'r-index': 65.01538279515087, 'g-index': 72, 'h2-index': 10, 'a-index': 93.93333333333334}
+
+daniele_miorandi
+{'h-index': 18, 'm-index': 32, 'ac': 25.20212765957447, 'cc': 2369, 'r-index': 44.090815370097204, 'g-index': 47, 'h2-index': 7, 'a-index': 108.0}
+

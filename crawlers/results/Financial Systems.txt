@@ -1,0 +1,12 @@
+roberto_baldoni
+{'h-index': 26, 'm-index': 43, 'ac': 22.38, 'cc': 2238, 'r-index': 36.78314831549904, 'g-index': 40, 'h2-index': 7, 'a-index': 52.03846153846154}
+
+james_clarke
+{'h-index': 34, 'm-index': 52, 'ac': 43.21, 'cc': 4321, 'r-index': 55.11805511808268, 'g-index': 61, 'h2-index': 9, 'a-index': 89.3529411764706}
+
+evangelos_kotsovinos
+{'h-index': 18, 'm-index': 44, 'ac': 80.41304347826087, 'cc': 3699, 'r-index': 59.85816569190874, 'g-index': 46, 'h2-index': 6, 'a-index': 199.05555555555554}
+
+eliezer_dekel
+{'h-index': 9, 'm-index': 45, 'ac': 20.764705882352942, 'cc': 706, 'r-index': 24.657656011875904, 'g-index': 26, 'h2-index': 5, 'a-index': 67.55555555555556}
+

@@ -1,0 +1,51 @@
+jonathan_michael
+{'h-index': 29, 'm-index': 59, 'ac': 51.52, 'cc': 5152, 'r-index': 66.85057965343307, 'g-index': 71, 'h2-index': 9, 'a-index': 154.10344827586206}
+
+kevin_dean
+{'h-index': 16, 'm-index': 28, 'ac': 17.161290322580644, 'cc': 1596, 'r-index': 35.11409973215888, 'g-index': 38, 'h2-index': 5, 'a-index': 77.0625}
+
+iain_buchan
+{'h-index': 24, 'm-index': 69, 'ac': 45.15584415584416, 'cc': 3477, 'r-index': 56.10704055642215, 'g-index': 58, 'h2-index': 9, 'a-index': 131.16666666666666}
+
+david_ingram
+{'h-index': 53, 'm-index': 96, 'ac': 93.47, 'cc': 9347, 'r-index': 87.54427451295716, 'g-index': 96, 'h2-index': 12, 'a-index': 144.60377358490567}
+
+georges_de_moor
+{'h-index': 9, 'm-index': 21, 'ac': 9.465116279069768, 'cc': 407, 'r-index': 17.05872210923198, 'g-index': 18, 'h2-index': 4, 'a-index': 32.333333333333336}
+
+wendy_currie
+{'h-index': 22, 'm-index': 41, 'ac': 18.16, 'cc': 1816, 'r-index': 33.77869150810907, 'g-index': 38, 'h2-index': 7, 'a-index': 51.86363636363637}
+
+harini_kulatunga
+{'h-index': 4, 'm-index': 5, 'ac': 4.714285714285714, 'cc': 33, 'r-index': 5.0990195135927845, 'g-index': 5, 'h2-index': 2, 'a-index': 6.5}
+
+l_witkamp
+{'h-index': 20, 'm-index': 43, 'ac': 31.34328358208955, 'cc': 2100, 'r-index': 41.737273509418415, 'g-index': 45, 'h2-index': 8, 'a-index': 87.1}
+
+harald_korb
+{'h-index': 5, 'm-index': 10, 'ac': 10.714285714285714, 'cc': 225, 'r-index': 13.564659966250536, 'g-index': 14, 'h2-index': 3, 'a-index': 36.8}
+
+dhiren_patel
+{'h-index': 6, 'm-index': 9, 'ac': 7.043478260869565, 'cc': 162, 'r-index': 11.313708498984761, 'g-index': 12, 'h2-index': 3, 'a-index': 21.333333333333332}
+
+rajanish_dass
+{'h-index': 4, 'm-index': 6, 'ac': 6.277777777777778, 'cc': 113, 'r-index': 9.273618495495704, 'g-index': 10, 'h2-index': 2, 'a-index': 21.5}
+
+raquel_gilaberte
+{'h-index': 2, 'm-index': 2, 'ac': 1.6666666666666667, 'cc': 10, 'r-index': 2.0, 'g-index': 2, 'h2-index': 1, 'a-index': 2.0}
+
+cecil_o_lynch_md_ms
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+henrik_errikson
+{'h-index': 1, 'm-index': 7, 'ac': 7.0, 'cc': 7, 'r-index': 2.6457513110645907, 'g-index': 1, 'h2-index': 1, 'a-index': 7.0}
+
+floriana_grasso
+{'h-index': 16, 'm-index': 36, 'ac': 18.142857142857142, 'cc': 1143, 'r-index': 29.966648127543394, 'g-index': 32, 'h2-index': 6, 'a-index': 56.125}
+
+raj_muttukrishnan
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+patty_kostkova
+{'h-index': 7, 'm-index': 12, 'ac': 5.404761904761905, 'cc': 227, 'r-index': 10.14889156509222, 'g-index': 11, 'h2-index': 3, 'a-index': 14.714285714285714}
+
