@@ -8,7 +8,7 @@ import random
 # helper type for working with Google Scholar Engine
 class Engine:
 
-  def __init__(perPage=10, pageNum=10):    
+  def __init__(self, perPage=10, pageNum=10):    
     self.__perPage = perPage
     self.__pageNum = pageNum    
     self.__curPage = 0

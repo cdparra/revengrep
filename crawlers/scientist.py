@@ -40,16 +40,17 @@ class Scientist:
     engine.search(self.name)    
     for page in engine:
       ma = map(lambda m: int(m.group("cit")), citre.finditer(page))
-      cit.extend(list(ma))
+      self.cit.extend(list(ma))
 
-    cit.sort()
-    cit.reverse()  
+    self.cit.sort()
+    self.cit.reverse()  
     
   @property
   def name(self):
     return self.__name 
     
-  @property cit(self):
+  @property
+  def cit(self):
     return self.__cit  
     
   def citationCount(self):
@@ -86,69 +87,69 @@ class Scientist:
       if (i+1)*(i+1) > s: return i
     return len(self.cit) 
     
-   def mQuotient(self):
+  def mQuotient(self):
      """
      The ration h/y, where h = h index, y = number of years since publishing
      the first paper
      """
      raise Exception 
     
-   def h2Index(self):
-     """
-     A scientist's h(2) index is defined as the highest natural number
-     such that his h(2) most-cited papers received at least [h(2)2]
-     citations (Kosmulski, 2006).
-     """
-     for i in range(0, len(self.cit)):
-       if (i+1)*(i+1) > self.cit[i]: return i
-     return len(self.cit)      
-    
-   def aIndex(self):
-     """
-     The A-index is the average number of citations of the papers in the
-     h-core.
-     """
-     h = self.hIndex() 
-     if h == 0: return 0
-     return sum(self.cit[:h]) / h
-     
-   def mIndex(self):
-     """
-     The median number of citations received by papers in the Hirsch core
-     (this is the papers ranking smaller than or equal to h).
-     """
-     h = self.hIndex()
-     if h == 0: return 0
-     return self.cit[h//2]
-     
-   def rIndex(self):
-     """
-     The R-index is the square root of citation of the papers in the h-core.
-     """
-     h = self.hIndex()
-     return math.sqrt(sum(self.cit[:h])) 
+  def h2Index(self):
+    """
+    A scientist's h(2) index is defined as the highest natural number
+    such that his h(2) most-cited papers received at least [h(2)2]
+    citations (Kosmulski, 2006).
+    """
+    for i in range(0, len(self.cit)):
+      if (i+1)*(i+1) > self.cit[i]: return i
+    return len(self.cit)      
    
-   def arIndex(self):
-     """
-     The square root of sum over all ratious of c/y, where c - number
-     of citation, y - years since publishing.
-     """
-     raise Exception
+  def aIndex(self):
+    """
+    The A-index is the average number of citations of the papers in the
+    h-core.
+    """
+    h = self.hIndex() 
+    if h == 0: return 0
+    return sum(self.cit[:h]) / h
+    
+  def mIndex(self):
+    """
+    The median number of citations received by papers in the Hirsch core
+    (this is the papers ranking smaller than or equal to h).
+    """
+    h = self.hIndex()
+    if h == 0: return 0
+    return self.cit[h//2]
+    
+  def rIndex(self):
+    """
+    The R-index is the square root of citation of the papers in the h-core.
+    """
+    h = self.hIndex()
+    if h == 0: return 0.0
+    return math.sqrt(sum(self.cit[:h])) 
+  
+  def arIndex(self):
+    """
+    The square root of sum over all ratious of c/y, where c - number
+    of citation, y - years since publishing.
+    """
+    raise Exception
+    
+  def calcMetrics(self):
+    return {
+    "cc" : self.citationCount(),
+    "ac" : self.averageCitation(),
+    "h-index" : self.hIndex(),
+    "g-index" : self.gIndex(),
+    "h2-index" : self.h2Index(),
+    "a-index" : self.aIndex(),
+    "m-index" : self.mIndex(),
+    "r-index" : self.rIndex()
+    }      
      
-   def calcMetrics(self):
-     return {
-     "cc" : self.citationCont(),
-     "ac" : self,averageCitation(),
-     "h-index" : self.hIndex(),
-     "g-index" : self.gIndex(),
-     "h2-index" : self.h2Index(),
-     "a-index" : self.aIndex(),
-     "m-index" : self.mIndex(),
-     "r-index" : self.rIndex(),
-     "ar-index" : self.arIndex()
-     }      
-     
-   def __str__(self):
-     return "{0}\n{1}\n".format(self.name, self.calcMetrics())      
+  def __str__(self):
+    return "{0}\n{1}\n".format(self.name, self.calcMetrics())      
 
       
