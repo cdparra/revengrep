@@ -1,0 +1,54 @@
+stefano_basagni
+{'h-index': 31, 'm-index': 68, 'ac': 70.78, 'cc': 7078, 'r-index': 80.75890043827987, 'g-index': 83, 'h2-index': 11, 'a-index': 210.38709677419354}
+
+weifa_liang
+{'h-index': 19, 'm-index': 27, 'ac': 15.344086021505376, 'cc': 1427, 'r-index': 31.68595903550972, 'g-index': 34, 'h2-index': 6, 'a-index': 52.8421052631579}
+
+alex_kesselman
+{'h-index': 14, 'm-index': 25, 'ac': 22.058823529411764, 'cc': 750, 'r-index': 24.919871588754223, 'g-index': 27, 'h2-index': 5, 'a-index': 44.357142857142854}
+
+anzej_pelc
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+peng-jun_wan
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+peter_widmayer
+{'h-index': 34, 'm-index': 69, 'ac': 43.79, 'cc': 4379, 'r-index': 56.929781309961136, 'g-index': 62, 'h2-index': 9, 'a-index': 95.32352941176471}
+
+stefan_funke
+{'h-index': 21, 'm-index': 34, 'ac': 37.291666666666664, 'cc': 2685, 'r-index': 48.12483766206386, 'g-index': 51, 'h2-index': 7, 'a-index': 110.28571428571429}
+
+alessano_panconesi
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+leen_stougie
+{'h-index': 24, 'm-index': 36, 'ac': 17.46, 'cc': 1746, 'r-index': 33.54101966249684, 'g-index': 37, 'h2-index': 7, 'a-index': 46.875}
+
+shmuel_zaks
+{'h-index': 22, 'm-index': 39, 'ac': 39.15, 'cc': 3915, 'r-index': 56.91221310052878, 'g-index': 61, 'h2-index': 7, 'a-index': 147.22727272727272}
+
+alon_efrat
+{'h-index': 27, 'm-index': 38, 'ac': 20.82, 'cc': 2082, 'r-index': 36.76955262170047, 'g-index': 40, 'h2-index': 7, 'a-index': 50.074074074074076}
+
+jack_snoeyink
+{'h-index': 40, 'm-index': 61, 'ac': 49.17, 'cc': 4917, 'r-index': 58.33523806414096, 'g-index': 64, 'h2-index': 9, 'a-index': 85.075}
+
+anei_broder
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+gerhard_woeginger
+{'h-index': 37, 'm-index': 61, 'ac': 40.88, 'cc': 4088, 'r-index': 50.53711507397311, 'g-index': 56, 'h2-index': 8, 'a-index': 69.02702702702703}
+
+pierre_fraigniaud
+{'h-index': 32, 'm-index': 50, 'ac': 34.45, 'cc': 3445, 'r-index': 46.79743582719036, 'g-index': 52, 'h2-index': 8, 'a-index': 68.4375}
+
+michael_juenger
+{'h-index': 10, 'm-index': 19, 'ac': 9.894736842105264, 'cc': 376, 'r-index': 16.1245154965971, 'g-index': 17, 'h2-index': 4, 'a-index': 26.0}
+
+michael_segal
+{'h-index': 21, 'm-index': 44, 'ac': 19.22, 'cc': 1922, 'r-index': 33.0, 'g-index': 37, 'h2-index': 7, 'a-index': 51.857142857142854}
+
+alberto_marchetti_spaccamela
+{'h-index': 27, 'm-index': 43, 'ac': 22.03, 'cc': 2203, 'r-index': 39.191835884530846, 'g-index': 43, 'h2-index': 7, 'a-index': 56.888888888888886}
+

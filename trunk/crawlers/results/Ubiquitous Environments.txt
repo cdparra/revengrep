@@ -1,0 +1,33 @@
+anupam_joshi
+{'h-index': 55, 'm-index': 83, 'ac': 83.08, 'cc': 8308, 'r-index': 81.30805618141414, 'g-index': 89, 'h2-index': 12, 'a-index': 120.2}
+
+wenjing_lou
+{'h-index': 26, 'm-index': 39, 'ac': 20.7, 'cc': 2070, 'r-index': 37.986839826445156, 'g-index': 41, 'h2-index': 7, 'a-index': 55.5}
+
+panchanathan
+{'h-index': 27, 'm-index': 46, 'ac': 30.21, 'cc': 3021, 'r-index': 43.034869582700026, 'g-index': 48, 'h2-index': 8, 'a-index': 68.5925925925926}
+
+wenye_wang
+{'h-index': 17, 'm-index': 34, 'ac': 21.26, 'cc': 2126, 'r-index': 41.08527716834828, 'g-index': 44, 'h2-index': 7, 'a-index': 99.29411764705883}
+
+salil_kanhere
+{'h-index': 12, 'm-index': 18, 'ac': 12.419354838709678, 'cc': 770, 'r-index': 23.08679276123039, 'g-index': 25, 'h2-index': 5, 'a-index': 44.416666666666664}
+
+antonio_krüger
+{'h-index': 22, 'm-index': 34, 'ac': 22.71, 'cc': 2271, 'r-index': 40.149719799769464, 'g-index': 44, 'h2-index': 7, 'a-index': 73.27272727272727}
+
+mohan_kumar
+{'h-index': 38, 'm-index': 53, 'ac': 41.49, 'cc': 4149, 'r-index': 50.34878350069642, 'g-index': 55, 'h2-index': 9, 'a-index': 66.71052631578948}
+
+yunhao_liu
+{'h-index': 32, 'm-index': 46, 'ac': 38.98, 'cc': 3898, 'r-index': 54.230987451824994, 'g-index': 59, 'h2-index': 9, 'a-index': 91.90625}
+
+diane_cook
+{'h-index': 31, 'm-index': 56, 'ac': 35.77, 'cc': 3577, 'r-index': 50.15974481593781, 'g-index': 55, 'h2-index': 8, 'a-index': 81.16129032258064}
+
+surendar_chana
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+krishna_m_sivalingam
+{'h-index': 33, 'm-index': 74, 'ac': 43.87, 'cc': 4387, 'r-index': 61.04096984812741, 'g-index': 65, 'h2-index': 9, 'a-index': 112.9090909090909}
+

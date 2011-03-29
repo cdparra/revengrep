@@ -1,0 +1,39 @@
+nirwan_ansari
+{'h-index': 28, 'm-index': 48, 'ac': 33.97, 'cc': 3397, 'r-index': 50.06995106848019, 'g-index': 54, 'h2-index': 9, 'a-index': 89.53571428571429}
+
+raj_jain
+{'h-index': 46, 'm-index': 104, 'ac': 138.51, 'cc': 13851, 'r-index': 111.57956802210698, 'g-index': 100, 'h2-index': 13, 'a-index': 270.6521739130435}
+
+tiffany_jing_li
+{'h-index': 5, 'm-index': 11, 'ac': 6.2727272727272725, 'cc': 69, 'r-index': 7.874007874011811, 'g-index': 8, 'h2-index': 3, 'a-index': 12.4}
+
+shiwen_mao
+{'h-index': 21, 'm-index': 33, 'ac': 14.59, 'cc': 1459, 'r-index': 31.827660925679098, 'g-index': 34, 'h2-index': 7, 'a-index': 48.23809523809524}
+
+tommaso_melodia
+{'h-index': 22, 'm-index': 62, 'ac': 47.206896551724135, 'cc': 2738, 'r-index': 50.25932749251625, 'g-index': 52, 'h2-index': 9, 'a-index': 114.81818181818181}
+
+claude_oestges
+{'h-index': 13, 'm-index': 26, 'ac': 9.64935064935065, 'cc': 743, 'r-index': 21.540659228538015, 'g-index': 24, 'h2-index': 5, 'a-index': 35.69230769230769}
+
+charles_e_perkins
+{'h-index': 45, 'm-index': 125, 'ac': 286.95, 'cc': 28695, 'r-index': 166.5502927046362, 'g-index': 100, 'h2-index': 15, 'a-index': 616.4222222222222}
+
+martin_reisslein
+{'h-index': 27, 'm-index': 55, 'ac': 28.73, 'cc': 2873, 'r-index': 44.73253849269008, 'g-index': 49, 'h2-index': 8, 'a-index': 74.11111111111111}
+
+david_simplot-ryl
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+wenye_wang
+{'h-index': 17, 'm-index': 34, 'ac': 21.26, 'cc': 2126, 'r-index': 41.08527716834828, 'g-index': 44, 'h2-index': 7, 'a-index': 99.29411764705883}
+
+baoxian_zhang
+{'h-index': 11, 'm-index': 23, 'ac': 7.463768115942029, 'cc': 515, 'r-index': 17.916472867168917, 'g-index': 19, 'h2-index': 5, 'a-index': 29.181818181818183}
+
+nei_kato
+{'h-index': 17, 'm-index': 30, 'ac': 9.86, 'cc': 986, 'r-index': 25.25866188063018, 'g-index': 27, 'h2-index': 6, 'a-index': 37.529411764705884}
+
+jun_zheng
+{'h-index': 37, 'm-index': 56, 'ac': 45.3, 'cc': 4530, 'r-index': 53.907327887774215, 'g-index': 60, 'h2-index': 9, 'a-index': 78.54054054054055}
+

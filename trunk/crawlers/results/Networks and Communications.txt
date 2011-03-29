@@ -1,0 +1,45 @@
+arjan_durresi
+{'h-index': 15, 'm-index': 25, 'ac': 13.57, 'cc': 1357, 'r-index': 28.26658805020514, 'g-index': 31, 'h2-index': 5, 'a-index': 53.266666666666666}
+
+amoakoh_gyasi-agyei
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+felix_hartanto
+{'h-index': 13, 'm-index': 30, 'ac': 15.1, 'cc': 604, 'r-index': 21.97726097583591, 'g-index': 23, 'h2-index': 5, 'a-index': 37.15384615384615}
+
+aruna_jayasuriya
+{'h-index': 8, 'm-index': 11, 'ac': 5.642857142857143, 'cc': 237, 'r-index': 12.609520212918492, 'g-index': 13, 'h2-index': 3, 'a-index': 19.875}
+
+yeo_chai_kiat
+{'h-index': 9, 'm-index': 22, 'ac': 8.181818181818182, 'cc': 450, 'r-index': 17.406895185529212, 'g-index': 19, 'h2-index': 4, 'a-index': 33.666666666666664}
+
+dirk_kutscher
+{'h-index': 14, 'm-index': 30, 'ac': 16.875, 'cc': 945, 'r-index': 27.910571473905726, 'g-index': 29, 'h2-index': 6, 'a-index': 55.642857142857146}
+
+kun-chan_lan
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+christos_politis
+{'h-index': 7, 'm-index': 25, 'ac': 8.515151515151516, 'cc': 281, 'r-index': 14.628738838327793, 'g-index': 15, 'h2-index': 5, 'a-index': 30.571428571428573}
+
+matthew_roughan
+{'h-index': 28, 'm-index': 54, 'ac': 29.31, 'cc': 2931, 'r-index': 48.91829923454004, 'g-index': 52, 'h2-index': 9, 'a-index': 85.46428571428571}
+
+jahangir_sarker
+{'h-index': 7, 'm-index': 9, 'ac': 4.607142857142857, 'cc': 129, 'r-index': 8.48528137423857, 'g-index': 9, 'h2-index': 3, 'a-index': 10.285714285714286}
+
+aaron_striegel
+{'h-index': 13, 'm-index': 21, 'ac': 9.983050847457626, 'cc': 589, 'r-index': 19.924858845171276, 'g-index': 22, 'h2-index': 5, 'a-index': 30.53846153846154}
+
+damla_turgut
+{'h-index': 16, 'm-index': 27, 'ac': 31.25, 'cc': 1625, 'r-index': 38.0, 'g-index': 40, 'h2-index': 6, 'a-index': 90.25}
+
+stefano_chessa
+{'h-index': 14, 'm-index': 20, 'ac': 17.482142857142858, 'cc': 979, 'r-index': 27.80287754891569, 'g-index': 30, 'h2-index': 5, 'a-index': 55.214285714285715}
+
+mahbub_hassan
+{'h-index': 12, 'm-index': 16, 'ac': 9.7, 'cc': 873, 'r-index': 23.62202362203543, 'g-index': 26, 'h2-index': 4, 'a-index': 46.5}
+
+raj_jain
+{'h-index': 46, 'm-index': 104, 'ac': 138.51, 'cc': 13851, 'r-index': 111.57956802210698, 'g-index': 100, 'h2-index': 13, 'a-index': 270.6521739130435}
+

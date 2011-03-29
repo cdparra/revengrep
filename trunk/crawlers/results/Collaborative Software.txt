@@ -1,0 +1,39 @@
+schahram_dustdar
+{'h-index': 30, 'm-index': 51, 'ac': 41.82, 'cc': 4182, 'r-index': 54.96362433464518, 'g-index': 60, 'h2-index': 9, 'a-index': 100.7}
+
+michael_w_sobolewski
+{'h-index': 4, 'm-index': 24, 'ac': 23.428571428571427, 'cc': 164, 'r-index': 12.529964086141668, 'g-index': 7, 'h2-index': 3, 'a-index': 39.25}
+
+michele_angelaccio
+{'h-index': 13, 'm-index': 32, 'ac': 34.03448275862069, 'cc': 987, 'r-index': 30.643106892089126, 'g-index': 29, 'h2-index': 6, 'a-index': 72.23076923076923}
+
+juan_quemada
+{'h-index': 10, 'm-index': 19, 'ac': 8.474576271186441, 'cc': 500, 'r-index': 17.52141546793523, 'g-index': 19, 'h2-index': 5, 'a-index': 30.7}
+
+ling_liu
+{'h-index': 74, 'm-index': 116, 'ac': 129.12, 'cc': 12912, 'r-index': 107.68936809174804, 'g-index': 100, 'h2-index': 14, 'a-index': 156.71621621621622}
+
+carl_gutwin
+{'h-index': 47, 'm-index': 90, 'ac': 75.12, 'cc': 7512, 'r-index': 78.26237921249263, 'g-index': 85, 'h2-index': 13, 'a-index': 130.31914893617022}
+
+sören_auer
+{'h-index': 16, 'm-index': 37, 'ac': 24.234375, 'cc': 1551, 'r-index': 36.810324638611924, 'g-index': 38, 'h2-index': 7, 'a-index': 84.6875}
+
+hans_vangheluwe
+{'h-index': 18, 'm-index': 43, 'ac': 21.16, 'cc': 2116, 'r-index': 39.4715087119811, 'g-index': 43, 'h2-index': 7, 'a-index': 86.55555555555556}
+
+ramana_reddy
+{'h-index': 25, 'm-index': 68, 'ac': 28.85, 'cc': 2885, 'r-index': 46.151923036857305, 'g-index': 50, 'h2-index': 8, 'a-index': 85.2}
+
+lennart_karlsson
+{'h-index': 19, 'm-index': 26, 'ac': 11.540816326530612, 'cc': 1131, 'r-index': 26.962937525425527, 'g-index': 29, 'h2-index': 6, 'a-index': 38.26315789473684}
+
+robert_o_briggs
+{'h-index': 28, 'm-index': 63, 'ac': 42.52, 'cc': 4252, 'r-index': 57.82732917920384, 'g-index': 63, 'h2-index': 9, 'a-index': 119.42857142857143}
+
+leonid_stoimenov
+{'h-index': 10, 'm-index': 16, 'ac': 6.846153846153846, 'cc': 267, 'r-index': 13.0, 'g-index': 14, 'h2-index': 4, 'a-index': 16.9}
+
+ambrogio
+{'h-index': 49, 'm-index': 72, 'ac': 63.38, 'cc': 6338, 'r-index': 67.6904720030818, 'g-index': 76, 'h2-index': 10, 'a-index': 93.51020408163265}
+

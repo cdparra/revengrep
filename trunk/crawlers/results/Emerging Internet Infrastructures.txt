@@ -1,0 +1,3 @@
+shiwen_mao
+{'h-index': 21, 'm-index': 33, 'ac': 14.59, 'cc': 1459, 'r-index': 31.827660925679098, 'g-index': 34, 'h2-index': 7, 'a-index': 48.23809523809524}
+

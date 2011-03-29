@@ -1,0 +1,36 @@
+rui_aguiar
+{'h-index': 12, 'm-index': 17, 'ac': 7.9397590361445785, 'cc': 659, 'r-index': 17.832554500127006, 'g-index': 20, 'h2-index': 4, 'a-index': 26.5}
+
+prosper_chemouil
+{'h-index': 8, 'm-index': 17, 'ac': 16.35, 'cc': 327, 'r-index': 17.08800749063506, 'g-index': 18, 'h2-index': 4, 'a-index': 36.5}
+
+frank_hp_fitzek
+{'h-index': 17, 'm-index': 23, 'ac': 17.418367346938776, 'cc': 1707, 'r-index': 34.36568055487916, 'g-index': 37, 'h2-index': 6, 'a-index': 69.47058823529412}
+
+djamal_zeghlache
+{'h-index': 13, 'm-index': 23, 'ac': 9.04, 'cc': 904, 'r-index': 21.470910553583888, 'g-index': 24, 'h2-index': 5, 'a-index': 35.46153846153846}
+
+roch_glitho
+{'h-index': 16, 'm-index': 45, 'ac': 12.6, 'cc': 1260, 'r-index': 28.548204847240395, 'g-index': 31, 'h2-index': 7, 'a-index': 50.9375}
+
+marcos_katz
+{'h-index': 17, 'm-index': 25, 'ac': 12.626262626262626, 'cc': 1250, 'r-index': 27.2213151776324, 'g-index': 30, 'h2-index': 5, 'a-index': 43.588235294117645}
+
+pekka_nikander
+{'h-index': 25, 'm-index': 48, 'ac': 27.17, 'cc': 2717, 'r-index': 45.110974274559844, 'g-index': 49, 'h2-index': 8, 'a-index': 81.4}
+
+börje_ohlman
+{'h-index': 11, 'm-index': 32, 'ac': 13.205128205128204, 'cc': 515, 'r-index': 20.049937655763422, 'g-index': 21, 'h2-index': 5, 'a-index': 36.54545454545455}
+
+anand_r_prasad
+{'h-index': 9, 'm-index': 16, 'ac': 11.513513513513514, 'cc': 426, 'r-index': 18.2208671582886, 'g-index': 19, 'h2-index': 4, 'a-index': 36.888888888888886}
+
+peter_schoo
+{'h-index': 6, 'm-index': 6, 'ac': 4.0, 'cc': 120, 'r-index': 7.615773105863909, 'g-index': 8, 'h2-index': 2, 'a-index': 9.666666666666666}
+
+theodore_zahariadis
+{'h-index': 10, 'm-index': 19, 'ac': 7.9361702127659575, 'cc': 373, 'r-index': 16.673332000533065, 'g-index': 18, 'h2-index': 4, 'a-index': 27.8}
+
+kostas_pentikousis
+{'h-index': 13, 'm-index': 23, 'ac': 9.41095890410959, 'cc': 687, 'r-index': 20.248456731316587, 'g-index': 22, 'h2-index': 4, 'a-index': 31.53846153846154}
+

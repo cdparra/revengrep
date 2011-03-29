@@ -1,0 +1,33 @@
+steve_beitzel
+{'h-index': 6, 'm-index': 15, 'ac': 55.9375, 'cc': 895, 'r-index': 29.32575659723036, 'g-index': 16, 'h2-index': 3, 'a-index': 143.33333333333334}
+
+raj_gururajan
+{'h-index': 7, 'm-index': 11, 'ac': 4.85, 'cc': 194, 'r-index': 10.677078252031311, 'g-index': 11, 'h2-index': 3, 'a-index': 16.285714285714285}
+
+daniel_s_katz
+{'h-index': 21, 'm-index': 44, 'ac': 29.149425287356323, 'cc': 2536, 'r-index': 45.44227107000705, 'g-index': 49, 'h2-index': 8, 'a-index': 98.33333333333333}
+
+cho-li_wang
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+wang-chien_lee
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+jie_li
+{'h-index': 83, 'm-index': 122, 'ac': 156.64, 'cc': 15664, 'r-index': 119.81652640600127, 'g-index': 100, 'h2-index': 15, 'a-index': 172.96385542168676}
+
+yingshu_li
+{'h-index': 15, 'm-index': 26, 'ac': 12.83, 'cc': 1283, 'r-index': 29.359836511806396, 'g-index': 32, 'h2-index': 6, 'a-index': 57.46666666666667}
+
+xueyan_tang
+{'h-index': 25, 'm-index': 54, 'ac': 20.535353535353536, 'cc': 2033, 'r-index': 40.27406113120453, 'g-index': 43, 'h2-index': 8, 'a-index': 64.88}
+
+weili_wu
+{'h-index': 17, 'm-index': 47, 'ac': 15.94949494949495, 'cc': 1579, 'r-index': 32.93933818400121, 'g-index': 36, 'h2-index': 7, 'a-index': 63.8235294117647}
+
+xiaohua_jia
+{'h-index': 31, 'm-index': 51, 'ac': 32.27, 'cc': 3227, 'r-index': 46.314144707637645, 'g-index': 51, 'h2-index': 8, 'a-index': 69.19354838709677}
+
+hua_wang
+{'h-index': 85, 'm-index': 121, 'ac': 190.59, 'cc': 19059, 'r-index': 134.33912311757882, 'g-index': 100, 'h2-index': 16, 'a-index': 212.31764705882352}
+

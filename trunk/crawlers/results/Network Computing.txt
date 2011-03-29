@@ -1,0 +1,27 @@
+frédéric_cuppens
+{'h-index': 26, 'm-index': 47, 'ac': 30.82, 'cc': 3082, 'r-index': 47.042533945356304, 'g-index': 52, 'h2-index': 8, 'a-index': 85.11538461538461}
+
+schahram_dustdar
+{'h-index': 30, 'm-index': 51, 'ac': 41.82, 'cc': 4182, 'r-index': 54.96362433464518, 'g-index': 60, 'h2-index': 9, 'a-index': 100.7}
+
+tevfik_kosar
+{'h-index': 16, 'm-index': 23, 'ac': 17.06896551724138, 'cc': 990, 'r-index': 27.676705006196094, 'g-index': 30, 'h2-index': 6, 'a-index': 47.875}
+
+klaus_pohl
+{'h-index': 32, 'm-index': 71, 'ac': 50.94, 'cc': 5094, 'r-index': 64.33506042586733, 'g-index': 69, 'h2-index': 11, 'a-index': 129.34375}
+
+reiner_sailer
+{'h-index': 28, 'm-index': 60, 'ac': 43.917808219178085, 'cc': 3206, 'r-index': 53.24471804789655, 'g-index': 56, 'h2-index': 10, 'a-index': 101.25}
+
+sudipta_sengupta
+{'h-index': 25, 'm-index': 41, 'ac': 254.67, 'cc': 25467, 'r-index': 157.7529714458653, 'g-index': 100, 'h2-index': 7, 'a-index': 995.44}
+
+wei-tek_tsai
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+cho-li_wang
+{'h-index': 0, 'm-index': 0, 'ac': 0.0, 'cc': 0, 'r-index': 0.0, 'g-index': 0, 'h2-index': 0, 'a-index': 0}
+
+taskin_kocak
+{'h-index': 7, 'm-index': 14, 'ac': 5.512195121951219, 'cc': 226, 'r-index': 11.489125293076057, 'g-index': 12, 'h2-index': 3, 'a-index': 18.857142857142858}
+
