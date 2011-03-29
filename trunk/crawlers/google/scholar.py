@@ -1,12 +1,24 @@
-# Helper library for work with Google
+
+"""
+Google Scholar engine emulator.
+
+Author: Denis Yarets (yaretsd@gmail.com)
+Date: 27.03.2011
+Project: revengrep
+Python3.1
+"""
 
 import urllib.request
 import urllib.parse
 import hashlib
 import random
 
-# helper type for working with Google Scholar Engine
+
 class Engine:
+  """
+  Engine class.
+  Provides iterating over pages in Google Scholar engine.
+  """
 
   def __init__(self, perPage=10, pageNum=10):    
     self.__perPage = perPage
@@ -52,8 +64,8 @@ class Engine:
       
     # open url
     page = urllib.request.urlopen(url)
+    
     # decode page's content and return result
-#    return page.read().decode("windows-1251")
     return page.read().decode("utf-8")
       
   def __str__(self):
