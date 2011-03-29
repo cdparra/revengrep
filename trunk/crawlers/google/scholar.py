@@ -8,8 +8,7 @@ import random
 # helper type for working with Google Scholar Engine
 class Engine:
 
-  def __init__(self, query, perPage=10, pageNum=10):
-    self.__query = query.lower()
+  def __init__(perPage=10, pageNum=10):    
     self.__perPage = perPage
     self.__pageNum = pageNum    
     self.__curPage = 0
@@ -34,6 +33,10 @@ class Engine:
   def pageNum(self):
     return self.__pageNum  
     
+  def search(self, query):
+    self.__query = query
+    self.__curPage = 0
+    
   def __iter__(self):
     return self
    
@@ -54,7 +57,7 @@ class Engine:
     return page.read().decode("utf-8")
       
   def __str__(self):
-    return ('Google Scholar Engine : query=[{0.query}] '
+    return ('Google Scholar Engine : '
     'perPage=[{0.perPage}] pageNum=[{0.pageNum}]'
     .format(self))
       
