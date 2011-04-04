@@ -2,7 +2,7 @@
 
 """
 A crawler for Google Scholar engine. Extrats infromation
-over the Internet and calcualte differents metrics
+over the Internet and calcualte differents metrics.
 
 Author: Denis Yarets (yaretsd@gmail.com)
 Date: 27.03.2011
