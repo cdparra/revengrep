@@ -280,7 +280,7 @@
 279,"ADMISSION","08","03","13","080313_ADMISSION","BARBIERI Marco","Marco","BARBIERI","Waiting list",4,18,1,20,20,265,10,15,23,4,11,3
 280,"ADMISSION","08","03","13","080313_ADMISSION","FIX Thomas","Thomas","FIX","Waiting list",5,19,1,6,0,0,0,0,0,0,0,3
 281,"ADMISSION","08","03","13","080313_ADMISSION","LE BESNERAIS Jean","Jean","LE BESNERAIS","Waiting list",6,20,1,7,4,27,3,5,8,2,4,3
-282,"ADMISSION","09","01","16","090116_ADMISSION","Nobody selected","","","",,0,0,0,0,0,0,0,0,0,0,3
+282,"ADMISSION","09","01","16","090116_ADMISSION","Nobody selected","","","",0,0,0,0,0,0,0,0,0,0,0,3
 283,"ADMISSION","09","02","15","090215_ADMISSION","DESTRADE Michel","Michel","DESTRADE","Main list",1,1,1,47,31,198,9,12,14,3,7,3
 284,"ADMISSION","09","02","15","090215_ADMISSION","PAGANO Stéphane","Stéphane","PAGANO","Main list",2,2,1,15,6,77,5,8,15,3,7,3
 285,"ADMISSION","09","02","15","090215_ADMISSION","LOTTON Pierrick","Pierrick","LOTTON","Main list",3,3,1,44,14,100,6,9,14,3,7,3
@@ -348,7 +348,7 @@
 347,"ADMISSION","10","07","13","100713_ADMISSION","GUIVIER-CURIEN Carine","Carine","GUIVIER-CURIEN","Waiting list",1,2,1,0,0,0,0,0,0,0,0,3
 348,"ADMISSION","10","08","13","100813_ADMISSION","CONGEDO Pietro Marco","Pietro Marco","CONGEDO","Main list",1,1,1,0,0,0,0,0,0,0,0,3
 349,"ADMISSION","10","08","13","100813_ADMISSION","AHUSBORDE Etienne","Etienne","AHUSBORDE","Waiting list",1,2,1,7,4,11,2,3,4,2,2,3
-350,"ADMISSION","10","09","13","100913_ADMISSION","Nobody selected","","","",,0,0,0,0,0,0,0,0,0,0,3
+350,"ADMISSION","10","09","13","100913_ADMISSION","Nobody selected","","","",0,0,0,0,0,0,0,0,0,0,0,3
 351,"ADMISSION","10","10","13","101013_ADMISSION","ERABLE Benjamin","Benjamin","ERABLE","Main list",1,1,1,16,9,57,5,7,10,3,5,3
 352,"ADMISSION","10","10","13","101013_ADMISSION","DEGRENNE Benoît","Benoît","DEGRENNE","Waiting list",1,2,1,1,0,0,0,0,0,0,0,3
 353,"ADMISSION","11","01","15","110115_ADMISSION","DONNIO Bertrand","Bertrand","DONNIO","Main list",1,1,1,58,43,763,18,26,33,6,16,3
@@ -856,7 +856,7 @@
 855,"ADMISSION","31","04","13","310413_ADMISSION","KHALIDI Lamya","Lamya","KHALIDI","Waiting list",1,5,1,12,5,16,3,3,5,2,2,3
 856,"ADMISSION","31","04","13","310413_ADMISSION","MALLYE Jean Baptiste","Jean Baptiste","MALLYE","Waiting list",2,6,1,0,0,0,0,0,0,0,0,3
 857,"ADMISSION","31","04","13","310413_ADMISSION","MESSAGER Erwan","Erwan","MESSAGER","Waiting list",3,7,1,3,0,0,0,0,0,0,0,3
-858,"ADMISSION","32","01","16","320116_ADMISSION","No Results","","","",,0,0,0,0,0,0,0,0,0,0,3
+858,"ADMISSION","32","01","16","320116_ADMISSION","No Results","","","",0,0,0,0,0,0,0,0,0,0,0,3
 859,"ADMISSION","32","02","15","320215_ADMISSION","THIERS Christophe","Christophe","THIERS","Main list",1,1,1,15,2,5,2,2,2,1,1,3
 860,"ADMISSION","32","02","15","320215_ADMISSION","DEROCHE Vincent","Vincent","DEROCHE","Main list",2,2,1,8,4,14,2,3,6,2,3,3
 861,"ADMISSION","32","02","15","320215_ADMISSION","LANOS Philippe","Philippe","LANOS","Main list",3,3,1,35,13,112,6,10,16,3,8,3
@@ -999,7 +999,7 @@
 998,"ADMISSION","41","01","15","410115_ADMISSION","GIBERT Elisabeth","Elisabeth","GIBERT","Main list",1,1,1,16,10,268,5,16,51,3,15,3
 999,"ADMISSION","41","01","15","410115_ADMISSION","RUELLAN Etienne","Etienne","RUELLAN","Main list",2,2,1,18,12,130,7,11,17,3,8,3
 1000,"ADMISSION","41","01","15","410115_ADMISSION","KALLENBACH Sacha","Sacha","KALLENBACH","Waiting list",1,3,1,11,9,178,7,11,24,3,11,3
-1001,"ADMISSION","42","01","15","420115_ADMISSION","Nobody selected","","","",,0,0,0,0,0,0,0,0,0,0,3
+1001,"ADMISSION","42","01","15","420115_ADMISSION","Nobody selected","","","",0,0,0,0,0,0,0,0,0,0,0,3
 1002,"ADMISSION","42","02","14","420214_ADMISSION","GRABAR Natalia","Natalia","GRABAR","Main list",1,1,1,74,47,322,12,14,16,4,7,3
 1003,"ADMISSION","42","03","13","420313_ADMISSION","SECAIL Claire","Claire","SECAIL","Main list",1,1,1,0,0,0,0,0,0,0,0,3
 1004,"ADMISSION","42","03","13","420313_ADMISSION","COMBY Jean-Baptiste","Jean-Baptiste","COMBY","Waiting list",1,2,1,0,0,0,0,0,0,0,0,3
@@ -1018,7 +1018,7 @@
 1017,"ADMISSION","43","01","15","430115_ADMISSION","THOMPSON Julie","Julie","THOMPSON","Main list",2,2,1,15,15,731,11,15,63,5,24,3
 1018,"ADMISSION","43","01","15","430115_ADMISSION","EDWARDS Aurelie","Aurelie","EDWARDS","Waiting list",1,3,1,40,33,481,14,21,27,5,14,3
 1019,"ADMISSION","43","02","15","430215_ADMISSION","SIEGEL Anne","Anne","SIEGEL","Main list",1,1,1,47,24,366,12,19,27,5,14,3
-1020,"ADMISSION","43","03","15","430315_ADMISSION","Nobody selected","","","",,0,0,0,0,0,0,0,0,0,0,3
+1020,"ADMISSION","43","03","15","430315_ADMISSION","Nobody selected","","","",0,0,0,0,0,0,0,0,0,0,0,3
 1021,"ADMISSION","43","04","14","430414_ADMISSION","NGUYEN Phuong","Phuong","NGUYEN","Main list",1,1,1,26,26,2390,26,26,92,8,41,3
 1022,"ADMISSION","43","05","14","430514_ADMISSION","RIVOIRE Olivier","Olivier","RIVOIRE","Main list",1,1,1,15,11,138,6,11,20,4,9,3
 1023,"ADMISSION","43","05","14","430514_ADMISSION","REINGRUBER Juergen","Juergen","REINGRUBER","Waiting list",1,2,1,5,2,14,2,3,7,2,3,3
@@ -1058,16 +1058,12 @@
 1057,"ADMISSION","45","02","14","450214_ADMISSION","CLAVEL Benoît","Benoît","CLAVEL","Main list",3,3,1,7,5,30,2,5,13,2,5,3
 1058,"ADMISSION","45","02","14","450214_ADMISSION","ORTU Elena","Elena","ORTU","Waiting list",1,4,1,13,6,44,5,6,8,2,4,3
 1059,"ADMISSION","45","02","14","450214_ADMISSION","ALI-TOUDERT Fazia","Fazia","ALI-TOUDERT","Waiting list",2,5,1,0,0,0,0,0,0,0,0,3
-1060,"ADMISSION","45","03","14","450314_ADMISSION","Nobody selected","","","",,0,0,0,0,0,0,0,0,0,0,3
+1060,"ADMISSION","45","03","14","450314_ADMISSION","Nobody selected","","","",0,0,0,0,0,0,0,0,0,0,0,3
 1061,"ADMISSION","45","04","13","450413_ADMISSION","MORLON Hélène","Hélène","MORLON","Main list",1,1,1,8,5,70,4,8,17,2,7,3
 1062,"ADMISSION","45","04","13","450413_ADMISSION","PARDI Fabio","Fabio","PARDI","Waiting list",1,2,1,12,9,86,5,9,15,3,7,3
-1063,"ADMISSION","45","05","13","450513_ADMISSION","Nobody selected","","","",,0,0,0,0,0,0,0,0,0,0,3
+1063,"ADMISSION","45","05","13","450513_ADMISSION","Nobody selected","","","",0,0,0,0,0,0,0,0,0,0,0,3
 1064,"ADMISSION","45","06","13","450613_ADMISSION","HABOLD Caroline","Caroline","HABOLD","Main list",1,1,1,12,6,63,4,7,15,2,7,3
 1065,"ADMISSION","45","07","13","450713_ADMISSION","LUCAS Christophe","Christophe","LUCAS","Main list",1,1,1,7,6,195,5,7,39,4,13,3
 1066,"ADMISSION","45","07","13","450713_ADMISSION","RUIN Isabelle","Isabelle","RUIN","Main list",2,2,1,7,5,20,3,4,6,2,3,3
 1067,"ADMISSION","45","07","13","450713_ADMISSION","DE VLEESCHOUWER François","François","DE VLEESCHOUWER","Main list",3,3,1,20,3,7,1,2,5,1,2,3
 1068,"ADMISSION","45","07","13","450713_ADMISSION","GATEAU valérie","valérie","GATEAU","Waiting list",1,4,1,3,2,2,1,1,1,1,0,3
-1069,"ADMISSION","45","07","13","450713_ADMISSION","BARNAUD Adeline","Adeline","BARNAUD","Waiting list",2,5,1,8,4,48,3,6,16,2,6,3
-1070,"ADMISSION","45","07","13","450713_ADMISSION","PRUVOST Melanie","Melanie","PRUVOST","Waiting list",3,6,1,9,6,87,4,9,21,3,8,3
-1071,"ADMISSION","45","08","13","450813_ADMISSION","CLAUDET Joachim","Joachim","CLAUDET","Main list",1,1,1,15,7,110,4,10,26,3,9,3
-1072,"ADMISSION","45","08","13","450813_ADMISSION","HEDOUIN Laetitia","Laetitia","HEDOUIN","Waiting list",1,2,1,0,0,0,0,0,0,0,0,3
