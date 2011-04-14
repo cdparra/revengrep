@@ -32,8 +32,8 @@ def extractCorrelation(fileName):
   corr.reverse()
   return corr
   
-def generateMetrics(rank, corr):
-  return [str(random.randint(0, 100)) for i in corr]  
+def generateMetrics(total, rank, corr):
+  return [str(random.randint(0, total-rank)) for i in corr]  
 
 def main():
   inFile = sys.argv[1]
@@ -48,7 +48,7 @@ def main():
     fout.write("\"rank\",{0}\n".format(",".join(map(lambda x: "\""+x[1]+"\"", corr))))
     
     for i in range(1, numScnt+1):
-      fout.write("{0},{1}\n".format(i, ",".join(generateMetrics(i, corr))))
+      fout.write("{0},{1}\n".format(i, ",".join(generateMetrics(numScnt, i, corr))))
   
   
 
