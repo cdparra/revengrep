@@ -75,7 +75,7 @@ def allSubsets(people):
     cor = correlation(ranks, snm)
     print("{0} = {1:5f}".format(mask, cor))
     result.append((cor, mask))
-  result.sort();
+  result.sort(key=lambda x: abs(x[0]));
   result.reverse()  
   return result    
       
