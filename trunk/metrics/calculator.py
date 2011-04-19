@@ -63,7 +63,7 @@ def allSubsets(people, calcCorrelation):
     sm = reduce(lambda x, y: [x[i]+y[i] for i in range(0, len(x))], metrcs, empty)
     snm = [x/len(metrcs) for x in sm]
     cor = calcCorrelation(ranks, snm)
-    print("{0} = {1:5f}".format(mask, cor))
+    #print("{0} = {1:5f}".format(mask, cor))
     result.append((cor, mask))
   result.sort(key=lambda x: abs(x[0]));
   result.reverse()  
@@ -85,13 +85,56 @@ def calcKendall(people):
   print("Kendall's correlation:")
   result = allSubsets(people, statistics.correlationKendallTau)
   printResult(result, "kendall_corr.txt")    
+ 
+def extractSections(people):
+  sections = [d.get("section") for d in people]
+  return sorted(list(set(sections))) 
+ 
+def printResultBySections(result, fileName):
+  with open(fileName, "w") as fout:
+    for sec, subresult in sorted(result.items()):
+      fout.write("section {0}\n".format(sec))
+      for x, mask in subresult:
+        ms = filter(lambda i: (mask&(1<<i)), range(0, len(metrics)))
+        sts = map(lambda i: metrics[i], ms)
+        fout.write("{0:5f} ==> {1}\n".format(x, list(sts)))      
+     
+  
+def calcPearsonBySections(people):
+  print("Pearson's correlation by sections:")
+  sections = extractSections(people)
+  
+  result = {}
+  for sec in sections:
+    print("section {0}:".format(sec))
+    subpeople = list(filter(lambda x: x.get("section") == sec, people))
+    subresult = allSubsets(subpeople, statistics.correlationPearson)
+    result[sec] = subresult[0:10]
+  
+  printResultBySections(result, "pearson_corr_by_sec.txt")
+  
+def calcKendallBySections(people):
+  print("Kendal's correlation by sections:")
+  sections = extractSections(people)
+  
+  result = {}
+  for sec in sections:
+    print("section {0}:".format(sec))
+    subpeople = list(filter(lambda x: x.get("section") == sec, people))
+    subresult = allSubsets(subpeople, statistics.correlationKendallTau)
+    result[sec] = subresult[0:10]
+  
+  printResultBySections(result, "kendall_corr_by_sec.txt")  
+    
       
 def main():              
   inFile = sys.argv[1]    
   people = inputData(inFile)  
   
-  calcPearson(people)
-  calcKendall(people)
+#  calcPearson(people)
+#  calcKendall(people)
+  calcPearsonBySections(people)
+  calcKendallBySections(people)
 
 def badArgs():
 # not enough arguments are present

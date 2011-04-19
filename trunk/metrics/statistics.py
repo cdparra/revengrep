@@ -34,5 +34,6 @@ def correlationPearson(x, y):
   mx, my = meanValue(x), meanValue(y)
   mx2, my2 = meanValue(map(lambda a, b: a*b, x, x)), meanValue(map(lambda a, b: a*b, y, y))
   mxy = meanValue(map(lambda a, b: a*b, x, y))
+  if mx2-mx**2 == 0 or my2-my**2 == 0: return 0.0
   return (mxy-mx*my)/(math.sqrt(mx2 - mx**2)*math.sqrt(my2-my**2))      
   
