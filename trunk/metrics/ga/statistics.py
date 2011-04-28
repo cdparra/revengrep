@@ -23,7 +23,7 @@ def correlationKendallTau(x, y):
   numerator = sum([px[i]*py[i] for i in range(0, len(px))])
   n = len(x)
   res = 2.0*numerator/n/(n-1)
-  return abs(res)
+  return res
   
 def meanValue(x):
   """Mean value for discrete uniform distibution."""
@@ -37,5 +37,5 @@ def correlationPearson(x, y):
   mxy = meanValue(map(lambda a, b: a*b, x, y))
   if mx2-mx**2 == 0 or my2-my**2 == 0: return 0.0
   res = (mxy-mx*my)/(math.sqrt(mx2 - mx**2)*math.sqrt(my2-my**2))      
-  return abs(res)
+  return res
   
