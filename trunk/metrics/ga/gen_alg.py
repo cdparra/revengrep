@@ -20,7 +20,8 @@ dif = 0.2
 eps = 1e-8
 target_cor = 1.0
 mutate_prob = 0.1
-popul_size = 20
+popul_size = 100
+iter_num = 1000
 
 def inputData(fileName):
   vctrs = []
@@ -47,47 +48,33 @@ def getParent(fitneses):
   return 0  
 
 def crossover(x, y):
-#  print("crossover")
-#  print("x : {0}".format(x))
-#  print("y : {0}".format(y))  
   bound = random.randint(0, len(x)-1)
   xy = [x[i] if random.random() < 0.5 else y[i] for i in range(0, len(x))]
-#  xy = [x[i] if i < bound else y[i] for i in range(0, len(x))]
-#  print("xy : {0}".format(xy))  
   return xy
 
 def mutation(x):
+  nx = []
   for a in x:
+    na = a
     if random.random() < mutate_prob:
-      change = random.uniform(-0.1, 0.1)
-      a += change
-      if a < 0.0: a = 0.0
-      if a > 1.0: a = 1.0
-  return x 
+      change = random.uniform(-0.2, 0.2)
+      na += change
+      if na < 0.0: na = 0.0
+      if na > 1.0: na = 1.0
+    nx.append(na)
+  return nx 
   
 def linearComb(a, x):
-  empty = [0.0 for i in x[0]]
-#  print("linearComb");
-#  print("genom : {0}".format(a))
-#  print("x before : {0}".format(x[0][:5]))
-   
-   
-  xa = [[x*a[i] for x in x[i]] for i in range(0, len(x))] 
-   
-#  for i in range(0, len(x)):
-#    for j in range(0, len(x[i])):
-#      x[i][j] *= a[i]
-#  print("x after : {0}".format(xa[0][:5])) 
-#  sys.exit(0)
-     
+  empty = [0.0 for i in x[0]]   
+  xa = [[x*a[i] for x in x[i]] for i in range(0, len(x))]      
   sm = reduce(lambda x, y: [x[i]+y[i] for i in range(0, len(x))], xa, empty)
   smn = normalize(list(sm))
-#  print("norm: {0}".format(smn[:5])) 
   return smn
   
 def calcFitness(genom, tar, vctrs):
   v = linearComb(genom, vctrs)
   cor = statistics.correlationPearson(v, tar)
+#  cor = statistics.correlationKendallTau(v, tar)
   return abs(cor)
     
 def geneticAlgorithm(tar, vctrs):
@@ -97,33 +84,30 @@ def geneticAlgorithm(tar, vctrs):
     population.append(genom)
     
   bestFitness = -1e30
-  bestGenom = None  
+  bestGenom = []
   
-  for it in range(0, 200):
-#    print("ga iter {0}:", it)
+  for it in range(0, iter_num):
+    if it % 100 == 0:
+      print("iteration {0}:".format(it))
+      print("correlation = {0}".format(bestFitness))
+      print("genom = {0}".format(["{0:.3f}".format(x) for x in bestGenom]))
+      print("")
     fitneses = [calcFitness(genom, tar, vctrs) for genom in population]
+    
     for i in range(0, len(population)):
       if fitneses[i] > bestFitness:
         bestFitness = fitneses[i]
         bestGenom = population[i]                
-#    print("bestFitness = {0:5f}".format(bestFitness))  
-#    print("bestGenom = {0}".format(bestGenom[:3])) 
-    #print("have to be = {0:5f}".format(calcFitness(bestGenom, tar, vctrs)))
-#    print("top3 : {0}".format(sorted(fitneses, key=lambda x:-x)[:3]))
-#    print("genom : {0}".format(population[0][:3]))
       
     generation = []
     for i in range(0, popul_size):
-#      if i % 10 == 0:
-#        print("\tgeneration : {0}\n".format(i))
       xId = getParent(fitneses)   
       yId = getParent(fitneses)
        
       xy = crossover(population[xId], population[yId])
       xy = mutation(xy)
-      generation.append(xy)
-       
-#    print("gen: {0}".format(population[0][:5]))   
+      generation.append(xy)       
+
     population = generation 
   
   return bestGenom   
@@ -141,7 +125,8 @@ def main():
   
   with open(outFile, "w") as fout:
     cor = calcFitness(genom, ranks, metrics)
-    print("correlation = {0:5f}".format(cor))
+    print("processing is done!")
+    print("correlation = {0}".format(cor))
     print("genom = {0}".format(genom))
     fout.write("{0}\ncorrelation = {1:5f}\n".format(genom, cor))
   
