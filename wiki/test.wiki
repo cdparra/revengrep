@@ -1,1 +1,1 @@
-<p>Normal text color <span style="color:green">different text color</span> normal text color <span style="background-color:yellow">different background color</span></p>
+Normal text color {{{<span style="color:green">}}}different text color{{{</span>}}}
