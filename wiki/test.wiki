@@ -1,1 +1,0 @@
-Normal text color {{{<span style="color:green">}}}different text color{{{</span>}}}
