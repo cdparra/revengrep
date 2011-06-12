@@ -1,0 +1,45 @@
+01 : Mathematics and Interactions of mathematics
+02 : Physical theories: methods, models and applications
+03 : Particules, nuclei, interactions: from the laboratory to the cosmos
+04 : Atoms and molecules-Lasers and optics-Hot plasmas
+05 : Condensed matter physics: structure and dynamics
+06 : Condensed matter physics: structures and electronic properties
+07 : Information Science and Technology (computer science, control, signal and communication)
+08 : Micro and Nanotechnologies, Electronics, Photonics, Electromagnetism, Electrical Engineering
+09 : Materials and structural mechanics and engineering. Solids mechanics. Acoustics
+10 : Fluid and reactive media: transport, transfer, transform processes
+11 : Supramolecular and macromolecular systems: properties, functions and engineering
+12 : Molecular architecture: Synthesis, mechanisms and properties
+13 : Physical Chemistry: molecules, environment
+14 : Coordination Chemistry, Interfaces and Processes
+15 : Chemistry of Materials, Nanomaterials and Processes
+16 : Chemistry for living organisms and medicinal chemistry. Design and properties of compounds of biological interest
+17 : Solar System and the distant Universe
+18 : Earth and the Terrestrial Planets: structure, history and models
+19 : The Earth System: superficial envelopes
+20 : Continental Surfaces and Interfaces
+21 : Molecular and structural features underlying biological functions
+22 : Organization, expression and evolution of genomes
+23 : Cell biology: organization and functions of the cell; infectious processes and host/pathogen relationships
+24 : Cellular interactions
+25 : Molecular and integrative physiology
+26 : Development, evolution, reproduction, stem cells
+27 : Behavior, cognition, brain
+28 : Integrative Plant Biology
+29 : Biodiversity, evolution and biological adaptations: from macromolecules to communities
+30 : Therapy, pharmacology and bioengineering
+31 : Humans and their Environments: Evolutions, Interactions
+32 : Ancient and Medieval Worlds
+33 : Modern and Contemporary Worlds
+34 : Languages, Language, Discourse
+35 : Philosophy, History of Thought, Science of Texts, Theory and History of Literatures and Arts
+36 : Sociology: Norms and Rules
+37 : Economics and Management
+38 : Societies and Cultures: Comparative Approaches
+39 : Areas, Territories and Societies
+40 : Politics, Power, Organization
+41 : Research Management
+42 : Communication Sciences
+43 : Biological systems modelling, bioinformatics
+44 : Cognition, language, information processing: natural and artificial systems
+45 : Dynamics of environmental systems, sustainable development, health, society
