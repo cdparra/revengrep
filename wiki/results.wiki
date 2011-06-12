@@ -1,0 +1,46 @@
+|| *No* || *Department* || *No of Members* || *Brute Force* || *Genetic Algorithm* || *Improvement* ||
+|| 01 || Mathematics and Interactions of mathematics || 36 || 0.129004 || 0.129005 || 0.000001 ||
+|| 02 || Physical theories: methods, models and applications || 26 || 0.178344 || 0.178354 || 0.000010 ||
+|| 03 || Particules, nuclei, interactions: from the laboratory to the cosmos || 47 || 0.384508 || 0.379821 || -0.004687 ||
+|| 04 || Atoms and molecules-Lasers and optics-Hot plasmas || 24 || 0.476629 || 0.477560 || 0.000931 ||
+|| 05 || Condensed matter physics: structure and dynamics || 25 || 0.377004 || 0.377004 || 0.000000 ||
+|| 06 || Condensed matter physics: structures and electronic properties || 27 || 0.306813 || 0.310859 || 0.004046 ||
+|| 07 || Information Science and Technology (computer science, control, signal and communication) || 60 || 0.137230 || 0.138607 || 0.001377 ||
+|| 08 || Micro and Nanotechnologies, Electronics, Photonics, Electromagnetism, Electrical Engineering || 36 || 0.235692 || 0.235692 || 0.000000 ||
+|| 09 || Materials and structural mechanics and engineering. Solids mechanics. Acoustics || 29 || 0.115656 || 0.115656 || 0.000000 ||
+|| 10 || Fluid and reactive media: transport, transfer, transform processes || 42 || 0.399683 || 0.399698 || 0.000015 ||
+|| 11 || Supramolecular and macromolecular systems: properties, functions and engineering || 23 || 0.434101 || 0.434122 || 0.000021 ||
+|| 12 || Molecular architecture: Synthesis, mechanisms and properties || 19 || 0.440083 || 0.434250 || -0.005833 ||
+|| 13 || Physical Chemistry: molecules, environment || 21 || 0.496176 || 0.485741 || -0.010435 ||
+|| 14 || Coordination Chemistry, Interfaces and Processes || 24 || 0.132033 || 0.131536 || -0.000497 ||
+|| 15 || Chemistry of Materials, Nanomaterials and Processes || 21 || 0.154510 || 0.154510 || 0.000000 ||
+|| 16 || Chemistry for living organisms and medicinal chemistry. Design and properties of compounds of biological interest || 29 || 0.260705 || 0.260705 || 0.000000 ||
+|| 17 || Solar System and the distant Universe || 27 || 0.144597 || 0.144597 || 0.000000 ||
+|| 18 || Earth and the Terrestrial Planets: structure, history and models || 21 || 0.128304 || 0.128304 || 0.000000 ||
+|| 19 || The Earth System: superficial envelopes || 20 || 0.347616 || 0.347616 || 0.000000 ||
+|| 20 || Continental Surfaces and Interfaces || 19 || 0.316558 || 0.316242 || -0.000316 ||
+|| 21 || Molecular and structural features underlying biological functions || 29 || 0.119946 || 0.119946 || 0.000000 ||
+|| 22 || Organization, expression and evolution of genomes || 32 || 0.202203 || 0.202203 || 0.000000 ||
+|| 23 || Cell biology: organization and functions of the cell; infectious processes and host/pathogen relationships || 25 || 0.514716 || 0.503914 || -0.010802 ||
+|| 24 || Cellular interactions || 28 || 0.340037 || 0.340037 || 0.000000 ||
+|| 25 || Molecular and integrative physiology || 26 || 0.338764 || 0.338764 || 0.000000 ||
+|| 26 || Development, evolution, reproduction, stem cells || 22 || 0.120096 || 0.120735 || 0.000639 ||
+|| 27 || Behavior, cognition, brain || 24 || 0.449706 || 0.449706 || 0.000000 ||
+|| 28 || Integrative Plant Biology || 23 || 0.197692 || 0.197483 || -0.000209 ||
+|| 29 || Biodiversity, evolution and biological adaptations: from macromolecules to communities || 22 || 0.089769 || 0.090447 || 0.000678 ||
+|| 30 || Therapy, pharmacology and bioengineering || 23 || 0.180041 || 0.179367 || -0.000674 ||
+|| 31 || Humans and their Environments: Evolutions, Interactions || 27 || 0.277525 || 0.277525 || 0.000000 ||
+|| 32 || Ancient and Medieval Worlds || 20 || 0.368006 || 0.369913 || 0.001907 ||
+|| 33 || Modern and Contemporary Worlds || 14 || 0.451443 || 0.450893 || -0.000550 ||
+|| 34 || Languages, Language, Discourse || 11 || 0.751061 || 0.726621 || -0.024440 ||
+|| 35 || Philosophy, History of Thought, Science of Texts, Theory and History of Literatures and Arts || 14 || 0.181243 || 0.180691 || -0.000552 ||
+|| 36 || Sociology: Norms and Rules || 20 || 0.167953 || 0.167953 || 0.000000 ||
+|| 37 || Economics and Management || 11 || 0.644616 || 0.645756 || 0.001140 ||
+|| 38 || Societies and Cultures: Comparative Approaches || 20 || 0.731695 || 0.729864 || -0.001831 ||
+|| 39 || Areas, Territories and Societies || 15 || 0.646289 || 0.646289 || 0.000000 ||
+|| 40 || Politics, Power, Organization || 15 || 0.768302 || 0.808655 || 0.040353 ||
+|| 41 || Research Management || 3 || 0.999190 || 1.000000 || 0.000810 ||
+|| 42 || Communication Sciences || 15 || 0.181902 || 0.178815 || -0.003087 ||
+|| 43 || Biological systems modelling, bioinformatics || 22 || 0.136299 || 0.136305 || 0.000006 ||
+|| 44 || Cognition, language, information processing: natural and artificial systems || 13 || 0.279310 || 0.277153 || -0.002157 ||
+|| 45 || Dynamics of environmental systems, sustainable development, health, society || 18 || 0.270864 || 0.268589 || -0.002275 ||
