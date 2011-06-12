@@ -1,0 +1,33 @@
+{| class="wikitable" style="text-align:center; width:80%;"
+|+ Table caption
+|-
+|
+! scope="col" | Header col. A
+! scope="col" | Header col. B
+! scope="col" | Header col. C
+! scope="col" | Header col. D
+|-
+! scope="row" | Header row 1
+|cell R1-A
+|cell R1-B
+|cell R1-C
+|cell R1-D
+|-
+! scope="row" | Header row 2
+|cell R2-A
+|cell R2-B
+|cell R2-C
+|cell R2-D
+|-
+! scope="row" | Header row 3
+|cell R3-A
+|cell R3-B
+|cell R3-C
+|cell R3-D
+|-
+! scope="row" | Header row 4
+|cell R4-A
+|cell R4-B
+|cell R4-C
+|cell R4-D
+|}
