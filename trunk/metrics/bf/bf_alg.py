@@ -39,7 +39,8 @@ def bruteForceAlgorithm(tar, vctrs):
   bestMask = []
   
   empty = [0.0 for x in range(0, len(tar))];
-  for mask in range(1, 1<<len(vctrs)):
+  tot = 1<<len(vctrs)
+  for mask in range(tot-1, tot):
     subv = extractVectors(vctrs, mask)
     
     sm = reduce(lambda x, y: [x[i]+y[i] for i in range(0, len(x))], subv, empty)
