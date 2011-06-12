@@ -126,9 +126,9 @@ def main():
   with open(outFile, "w") as fout:
     cor = calcFitness(genom, ranks, metrics)
     print("processing is done!")
-    print("correlation = {0}".format(cor))
-    print("genom = {0}".format(genom))
-    fout.write("{0}\ncorrelation = {1:5f}\n".format(genom, cor))
+    print("correlation = {0}".format(cor))    
+    print("genom = {0}".format(genom))    
+    fout.write("{0:5f}\n{1}\n".format(cor, genom))
   
   
 
